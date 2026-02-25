@@ -77,9 +77,3 @@ The system prioritizes clarity, modularity, and extensibility.
 ## 🛠 Unity Version
 
 Tested in Unity6+ (should work without any problems in newer versions)
-
----
-
-## 📜 License
-
-MIT
