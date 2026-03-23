@@ -68,7 +68,6 @@ The system prioritizes clarity, modularity, and extensibility.
 - Dead zones
 - Camera bounds
 - Damping curves
-- Dynamic zoom
 - Shake effect
 - ScriptableObject presets
 
