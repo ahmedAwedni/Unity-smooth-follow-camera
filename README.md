@@ -61,7 +61,6 @@ The system prioritizes clarity, modularity, and extensibility.
 ## 🚀 Possible Extensions
 
 * **Camera Bounds:** Add min/max Vector clamps to prevent the camera from showing areas outside the level geometry.
-* **Damping Curves:** Swap the linear "Mathf.Lerp" for an AnimationCurve or SmoothDamp to allow easing in and out of camera stops.
 * **Shake Effect:** Add a public method to temporarily apply random Perlin Noise offsets to the camera for explosions or damage impacts.
 * **ScriptableObject Presets:** Store different camera angles and dead zones in SOs to easily swap perspectives (e.g., changing from a wide exploration view to a tight combat view).
 
