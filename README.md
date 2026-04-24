@@ -44,7 +44,6 @@ A lightweight, robust, and reusable smooth follow camera system for both 3D and 
 2. Assign a target Transform.
 3. Adjust the 2D offset.
 4. Set your "Dead Zone Size" (X and Y dimensions). Use the Scene View to visualize the green bounding box.
-5. Optionally lock the X or Y axis if your game requires it.
 
 ---
 
